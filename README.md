@@ -24,7 +24,7 @@ Este proyecto es una API desarrollada en Node.js que consulta los precios de cel
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/MarcoATL/API_MELI_Celulares.git
 
 2. Navega al directorio del proyecto:
     ```bash
